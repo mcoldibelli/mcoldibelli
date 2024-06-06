@@ -4,7 +4,7 @@ I'm Marcelo! A **Software Engineer** 🚀 from Brazil.
 
 Glad you're reading my profile! Be very welcome to contact me if you may
 
-  <img align="right" alt="GIF" src="https://media.tenor.com/nIPLRnaTx7gAAAAC/trex-pc.gif" />
+  <img align="right" alt="GIF" width="400px" src="https://media.tenor.com/nIPLRnaTx7gAAAAC/trex-pc.gif" />
 
 **Talking about Personal Stuffs:**
 
