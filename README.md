@@ -29,6 +29,16 @@ Glad you're reading my profile! Be very welcome to contact me if you may
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=mcoldibelli&show_icons=true&hide_border=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mcoldibelli" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcoldibelli&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+  
+
+
 
 Based on [CallmeMehdi](https://github.com/CallmeMehdi)
