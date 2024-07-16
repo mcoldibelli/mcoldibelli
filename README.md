@@ -14,8 +14,6 @@ Glad you're reading my profile! Be very welcome to contact me if you may
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via marcelo.coldibelli@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://www.figma.com/design/5TRPw1bsFva63OdhotT9Jo/Curr%C3%ADculo-para-ATS---Fullstack?node-id=2%3A3&t=yKKhzEWBgB1GgdX0-1) to get more info.
-
 
 **Languages and Tools:**  
 
