@@ -10,4 +10,4 @@ Java | Python | JavaScript | React | Spring Boot | AWS | Docker | SQL | NoSQL | 
 Currently improving skills in advanced AI models and serverless.
 
 ## 📫 Contact Me
-[LinkedIn](https://linkedin.com/in/marcelocoldibelli)
+[LinkedIn](https://linkedin.com/in/marcelo-coldibelli)
