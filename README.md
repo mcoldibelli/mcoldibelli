@@ -1,6 +1,6 @@
 # Hi there, I'm Marcelo 👋
 
-I'm a passionate software developer and data analyst focused on building scalable backend systems, interactive frontends, and AI-powered solutions.
+I'm a passionate software developer and data analyst focused on building scalable backend systems and interactive frontends.
 
 ## 🛠️ Skills & Tools
 Java | Python | JavaScript | React | Spring Boot | AWS | Docker | SQL | NoSQL | Tailwind
