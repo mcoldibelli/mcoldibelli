@@ -24,9 +24,8 @@ Outside of work, I solder ESP32 boards, train CNNs, and automate things people s
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| 🚲 **[Biked](https://github.com/mcoldibelli/biked)** | IoT system that turns a spinning bike into smart equipment | ESP32 · MQTT · Spring Boot · RabbitMQ |
-| 🐾 **[BuscaPet](#)** | Pet recovery platform using CNN facial recognition | Python · TensorFlow · Spring Boot |
-| ⚡ **[Codaline](https://codaline.com.br)** | Freelance automation & custom solutions | Web · VBA · Python |
+| **[Automatos](https://automatos.cloud/)** | Automata engine - simulate, convert, and minimize finite automata | Spring Boot · React · Formal Theory |
+| **[Biked](https://github.com/mcoldibelli/biked)** | IoT system that turns a spinning bike into smart equipment | ESP32 · MQTT · Spring Boot · RabbitMQ |
 
 ### Tech I work with
 
