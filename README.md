@@ -2,7 +2,7 @@
 
 <h1>Marcelo A. B. Coldibelli</h1>
 
-**Software Developer · Legacy Modernizer · IoT Tinkerer**
+**Software Developer**
 
 From legacy monoliths to IoT prototypes — I enjoy solving problems at every layer of the stack.
 
