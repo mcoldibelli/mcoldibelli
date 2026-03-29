@@ -27,7 +27,6 @@ My background spans enterprise Java at a Brazilian ERP/fiscal software company a
 |---------|-------------|-------|
 | **[open-finance](https://github.com/mcoldibelli/open-finance)** | FAPI 1.0 API Gateway with mTLS, certificate-bound tokens (RFC 8705), JTI anti-replay, consent lifecycle management and CNAB240/CIP banking reconciliation engine | Java 21 · Spring Cloud Gateway · Spring Cloud Config · Spring Batch · Redis · Kafka · Docker · Maven |
 | **[Biked](https://github.com/mcoldibelli/biked)** | IoT system that turns a spinning bike into smart connected equipment | ESP32 · MQTT · Spring Boot · RabbitMQ |
-| **[Automatos](https://automatos.cloud/)** | Formal automata engine — simulate, convert and minimize finite automata (NFA/DFA) | Spring Boot 3 · React · Maven |
 | **[FlightIssues](https://flightissues.com)** | Micro SaaS — generates EC 261/2004 flight compensation claim letters; structured passenger input → regulation-compliant PDF artifact, one-time payment | React · Supabase · Stripe · React PDF |
 
 ---
