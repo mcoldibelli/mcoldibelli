@@ -5,7 +5,7 @@
 **Backend Engineer · Distributed Systems**
 
 I work on real-time and distributed backend systems. Strong Java background,
-currently working in C#/.NET and learning Go.
+currently working in Golang and C#/.NET.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marcelo-coldibelli)
 [![Email](https://img.shields.io/badge/-marcelo@codaline.com.br-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo@codaline.com.br)
@@ -17,10 +17,8 @@ currently working in C#/.NET and learning Go.
 
 ### Currently
  
-Working on a real-time monitoring platform for electronic-security services (alarm, CCTV, access-control, remote-gatekeeping). Part of the job is migrating a legacy Delphi 6 desktop app to C#/.NET and Angular, with the system running 24/7 the whole time.
+Working on a real-time monitoring platform for electronic-security services (alarm, CCTV, access-control, remote-gatekeeping).
  
-On the side I'm learning Go and getting deeper into distributed systems: gRPC, Kafka, observability, Kubernetes.
-
 ---
 
 ### Featured Projects
@@ -36,7 +34,6 @@ On the side I'm learning Go and getting deeper into distributed systems: gRPC, K
 
 **Real-time security monitoring platform** (current)
 - Real-time processing of alarm and sensor events feeding an operator dispatch flow
-- Migrating a Delphi 6 desktop monolith to C#/.NET services + Angular
 - Mostly concurrency, low-latency processing, observability and failure handling
 
 **Brazilian fiscal systems**
